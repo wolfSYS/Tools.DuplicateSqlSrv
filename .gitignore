@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.cr/personal/FavoritesList
+/.vs
+/Tools.DuplicateSqlSrv/bin/Debug
+/Tools.DuplicateSqlSrv/bin/Release/net8.0-windows10.0.26100.0
+/Tools.DuplicateSqlSrv/obj
+/Tools.DuplicateSqlSrv.Smo.Playground/bin/Debug/net8.0
+/Tools.DuplicateSqlSrv.Smo.Playground/obj
